@@ -1,0 +1,24 @@
+
+h1 {
+    color:darkred
+    text-align: center;
+    border-bottom:1px solid black
+    
+
+ }
+h2 {
+    color:darkred;
+}
+p {
+    color:darkred;
+
+}
+
+#info-box {
+    border: 3px solid black;
+    background-color: lightyellow;
+
+}
+.description {
+    display:none;
+}
